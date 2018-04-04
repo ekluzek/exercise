@@ -1,0 +1,55 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "a5ffc313_bcf0957a",
+        "filename": "dayOfYea.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 1,
+      "author": {
+        "id": 1013874
+      },
+      "writtenOn": "2018-04-04T16:35:58Z",
+      "side": 1,
+      "message": "Check for leap years and add a day in February if the year is divisible by 4.",
+      "revId": "149d97880e56b78372b286c689feaf17af50899c",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "dd94caab_41474550",
+        "filename": "dayOfYea.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 7,
+      "author": {
+        "id": 1013874
+      },
+      "writtenOn": "2018-04-04T16:35:58Z",
+      "side": 1,
+      "message": "Initialize another variable to store the day of month that we are returning",
+      "revId": "149d97880e56b78372b286c689feaf17af50899c",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "453bff9b_4cdf87b0",
+        "filename": "dayOfYea.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 22,
+      "author": {
+        "id": 1013874
+      },
+      "writtenOn": "2018-04-04T16:35:58Z",
+      "side": 1,
+      "message": "Check to see if the user entered an invalid month or an invalid day of month.",
+      "revId": "149d97880e56b78372b286c689feaf17af50899c",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    }
+  ]
+}
